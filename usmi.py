@@ -1,2 +1,2 @@
 import usmi
-usmi.lin()
+usmi.linex()
