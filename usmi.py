@@ -1,2 +1,2 @@
 import usmi
-usmi.jawnxd()
+usmi.lin()
